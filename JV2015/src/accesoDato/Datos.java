@@ -1,5 +1,6 @@
 package accesoDato;
 
+
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.Map;
@@ -159,7 +160,7 @@ public class Datos {
 	 * @param fin - del bloque.
 	 * @return - el Usuario encontrado o null si no existe.
 	 */		
-	private Usuario buscarUsuarioRec(String idUsr, int inicio, int fin) {
+	public Usuario buscarUsuarioRec(String idUsr, int inicio, int fin) {
 		Usuario usrRetorno = null;
 		int comparacion; 
 		int medio;

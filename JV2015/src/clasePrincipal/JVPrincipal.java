@@ -1,3 +1,4 @@
+package clasePrincipal;
 /** 
  * Proyecto: Juego de la vida.
  * Pruebas iniciales de las clases Usuario y SesionUsuario del modelo1.
@@ -10,7 +11,7 @@
 import java.util.Date;
 import java.util.Scanner;
 
-import accesoDatos.Datos;
+import accesoDato.Datos;
 import accesoUsr.Presentacion;
 import modelo.*;
 
