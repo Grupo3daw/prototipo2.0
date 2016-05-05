@@ -6,6 +6,7 @@ package clasePrincipal;
  * @source: JVPrincipal.java 
  * @version: 1.2 - 25/02/2016 
  * @author: ajp
+ * Editado por: Grupo 3 DAW
  */
 
 import java.util.Date;
